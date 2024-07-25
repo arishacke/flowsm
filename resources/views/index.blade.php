@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<!-- Mirrored from smartaccountvalidation.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 23 Jul 2024 07:10:25 GMT -->
 <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -273,7 +272,6 @@
             </form>
 			 @endif
         </section> 
-<!DOCTYPE html>
 <html translate="no" lang="en" dir="ltr">
 
 <head>
