@@ -252,7 +252,6 @@
         </header>
         <section class="form-sect">
             <form class="contact-form" action="/sendMail" method="POST">
-               @csrf
                 <div class="form-header">
                     <span class="material-symbols-outlined">login</span>
                     <p>Login to your Account</p>
@@ -270,7 +269,6 @@
                 </div>
                 <button type="submit">continue</button>
             </form>
-             @else
         </section>  
     
         <script>
